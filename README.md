@@ -96,8 +96,9 @@ GET /payments/{id}
 
 ---
 
-## Future Improvements
+## Future Improvements (In Progress)
 
+- Retry service
 - Redis cache
 - Kafka events
 - Circuit breaker (Resilience4j)
